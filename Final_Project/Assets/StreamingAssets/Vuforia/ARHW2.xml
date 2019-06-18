@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Chen2_2" size="1.000000 1.500000" />
+    <ImageTarget name="Fang3_2" size="1.000000 1.500000" />
+    <ImageTarget name="Fang4_2" size="1.000000 1.500000" />
+    <ImageTarget name="Fang1_2" size="1.000000 1.500000" />
+    <ImageTarget name="Fang6_2" size="1.000000 1.500000" />
+    <ImageTarget name="Fang7_2" size="1.000000 1.500000" />
+    <ImageTarget name="E2" size="1.000000 0.666667" />
+    <ImageTarget name="E1" size="1.000000 0.666667" />
+    <ImageTarget name="end" size="1.000000 1.500000" />
+    <ImageTarget name="start" size="1.000000 1.500000" />
+    <ImageTarget name="Fang7" size="1.000000 1.500000" />
+    <ImageTarget name="Fang6" size="1.000000 1.500000" />
+    <ImageTarget name="Fang5" size="1.000000 1.500000" />
+    <ImageTarget name="Fang4" size="1.000000 1.500000" />
+    <ImageTarget name="Fang3" size="1.000000 1.500000" />
+    <ImageTarget name="Fang2" size="1.000000 1.500000" />
+    <ImageTarget name="Fang1" size="1.000000 1.500000" />
+    <ImageTarget name="Chen3" size="1.000000 1.500000" />
+    <ImageTarget name="Chen2" size="1.000000 1.500000" />
+    <ImageTarget name="Chen1" size="1.000000 1.500000" />
+    <ImageTarget name="health" size="1.000000 1.637339" />
+    <ImageTarget name="Zombie" size="1.000000 1.606164" />
+    <ImageTarget name="Soilder" size="1.000000 1.594667" />
+  </Tracking>
+</QCARConfig>
